@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dice{
+    background-color: rgb(199, 166, 199);
+    height: 6em;
+    width: 6em;
+    margin: 1em;
+    color: white;
+    font-weight: 500;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
